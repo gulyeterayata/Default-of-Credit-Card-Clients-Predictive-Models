@@ -4,7 +4,7 @@
 Kredi kartı sahibi banka müşterilerinin 6 aylık fatura ödeme ve kişisel verilerine göre bir sonraki ay için fatura ödemesi yapıp yapmayacağı tahmin edilmeye çalışıldı.
 
 # KULLANILAN KÜTÜPHANELER
-scikit-learn 0.22
+scikit-learn 0.22 \n
 pandas 0.25.1
 seaborn 0.9.0
 xgboost 1.0.0
