@@ -20,8 +20,8 @@ LogisticRegression
 XGBClassifier  
 
 # En Yüksek Accuracy Sonucunu Veren Prediction Metodu
-RandomForestClassifier 
-XGBClassifier
+RandomForestClassifier  
+XGBClassifier  
 
 
 
